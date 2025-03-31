@@ -1,0 +1,7 @@
+{
+    "modelId": "amazon.titan-image-generator-v1",
+    "contentType": "application/json",
+    "accept": "application/json",
+    "body": "{\"textToImageParams\":{\"text\":\"this is where you place your input text\"},\"taskType\":\"TEXT_IMAGE\",\"imageGenerationConfig\":{\"cfgScale\":8,\"seed\":42,\"quality\":\"standard\",\"width\":1024,\"height\":1024,\"numberOfImages\":3}}"
+   }
+
