@@ -18,10 +18,11 @@ This repository demonstrates how to leverage Amazon Bedrock for building powerfu
 - 🟢 Setting up document ingestion and retrieval workflows.
 - 🟢 Deploying the chatbot using Amazon Bedrock.
 
-## 📝 4. End-to-End Blog Generation App using Bedrock
-- 🟢 Step-by-step guide to create a blog generation application.
-- 🟢 Leveraging Bedrock’s text generation capabilities.
-- 🟢 Workflow automation and content optimization.
+## 📝 4. Blog Generator App using AWS Bedrock
+- 🟢 API-Driven Blog Generation: Generates dynamic blogs using AWS Lambda and API Gateway based on input topics.
+- 🟢 Automated Storage in S3: Stores generated blogs as .txt files in an S3 bucket for easy retrieval.
+- 🟢 Seamless Integration with AWS Services: Utilizes AWS Bedrock for text generation, offering a scalable and efficient solution.
+
 
 ---
 
